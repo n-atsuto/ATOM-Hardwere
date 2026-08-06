@@ -1,1 +1,1 @@
-# ATOM-Hardwere
+# ATOM-Hardware
